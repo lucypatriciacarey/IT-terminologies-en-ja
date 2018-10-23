@@ -1,11 +1,11 @@
-Terminologies in IT field. Both in English and Japanese
+Bilingual English and Japanese cryptography and security terminology
 
 All of the descriptions are in the form:
 
 English	   :	Japanese
 
 
-And both of the English and Japanese field contains one or more
+And both of the English and Japanese field contain one or more
 words separated by slashes (/).
 
 
@@ -15,4 +15,4 @@ Please edit all of the files in UTF-8.
 Files:
 
 - crypto-sec-terminologies-en-ja.txt
-	terminologies on Cryptography and Secrurity
+	Cryptography and security terminology
